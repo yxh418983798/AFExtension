@@ -1,0 +1,6 @@
+framework module Pods_AFExtension_Example {
+  umbrella header "Pods-AFExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

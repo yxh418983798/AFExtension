@@ -1,0 +1,22 @@
+{
+  "name": "AFExtension",
+  "version": "0.1.0",
+  "summary": "A short description of AFExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yxh418983798/AFExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yxh418983798": "yxh418983798@dingtalk.com"
+  },
+  "source": {
+    "git": "https://github.com/yxh418983798/AFExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AFExtension/Classes/**/*"
+}

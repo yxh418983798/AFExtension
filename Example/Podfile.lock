@@ -1,0 +1,16 @@
+PODS:
+  - AFExtension (0.1.0)
+
+DEPENDENCIES:
+  - AFExtension (from `../`)
+
+EXTERNAL SOURCES:
+  AFExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFExtension: 3a21d191ec976cc5ded8411b50b636e0f7449a72
+
+PODFILE CHECKSUM: 7f51ecfa0c926823922b4f33f64b930f1ace3055
+
+COCOAPODS: 1.5.3

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AFExtension'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AFExtension.'
+  s.summary          = 'An useful Extension tool for UIKIT.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
